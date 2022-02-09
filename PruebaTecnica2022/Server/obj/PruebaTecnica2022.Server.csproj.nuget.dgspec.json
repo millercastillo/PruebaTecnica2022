@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Server\\PruebaTecnica2022.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\PruebaTecnica2022.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\PruebaTecnica2022.Client.csproj",
+        "projectName": "PruebaTecnica2022.Client",
+        "projectPath": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\PruebaTecnica2022.Client.csproj",
+        "packagesPath": "C:\\Users\\milcasmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\milcasmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Shared\\PruebaTecnica2022.Shared.csproj": {
+                "projectPath": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Shared\\PruebaTecnica2022.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.1, 6.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Server\\PruebaTecnica2022.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Server\\PruebaTecnica2022.Server.csproj",
+        "projectName": "PruebaTecnica2022.Server",
+        "projectPath": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Server\\PruebaTecnica2022.Server.csproj",
+        "packagesPath": "C:\\Users\\milcasmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\milcasmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\PruebaTecnica2022.Client.csproj": {
+                "projectPath": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\PruebaTecnica2022.Client.csproj"
+              },
+              "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Shared\\PruebaTecnica2022.Shared.csproj": {
+                "projectPath": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Shared\\PruebaTecnica2022.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Shared\\PruebaTecnica2022.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Shared\\PruebaTecnica2022.Shared.csproj",
+        "projectName": "PruebaTecnica2022.Shared",
+        "projectPath": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Shared\\PruebaTecnica2022.Shared.csproj",
+        "packagesPath": "C:\\Users\\milcasmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\milcasmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
