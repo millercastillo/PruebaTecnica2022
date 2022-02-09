@@ -44,3 +44,5 @@ C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTec
 C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Server\obj\Debug\net6.0\ref\PruebaTecnica2022.Server.dll
 C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Server\obj\Debug\net6.0\PruebaTecnica2022.Server.pdb
 C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Server\obj\Debug\net6.0\PruebaTecnica2022.Server.genruntimeconfig.cache
+C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll

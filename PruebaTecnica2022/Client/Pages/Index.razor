@@ -1,9 +1,18 @@
 ﻿@page "/"
+@inject IRepositorio repositorio
 
-<PageTitle>Index</PageTitle>
 
-<h1>Hello, world!</h1>
+<div>
+    @foreach (var item in repositorio.ObtenerPeliculas())
+    {
+        <div>
+            @item.Titulo
+        </div>
+    }
+</div>
 
-Welcome to your new app.
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+
+@code{
+    
+}

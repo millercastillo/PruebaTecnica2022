@@ -7,12 +7,14 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Microsoft.AspNetCore.Authorization.dll": "sha256-hGbT4jDhpi63093bjGt+4XVJ3Z9t1FVbmgNmYYmpiNY=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-NJ2GmZOAzlolS7ZPvt5guh86ICBupqwCNK0ygg7fkhE=",
-      "Microsoft.AspNetCore.Components.Forms.dll": "sha256-YEcUfJbV\/+SrxppUEKn5jqOg8WptBrdAGaDG+psN8Yg=",
-      "Microsoft.AspNetCore.Components.Web.dll": "sha256-aq+IFhf0HZZKVz6P\/GhuaY0UvXsguM0h5hlYrzAfugk=",
+      "Microsoft.AspNetCore.Authorization.dll": "sha256-1MwhDUDzh+JE9dgZxlgMF470nBqLsvGAAgAGfn3n8CI=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-R\/v7gKZiW9HyCdGNOk1GuOzLMyYC4OwMfwPH5+06KG4=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-dlKOS27Y6VWNumsP1+RpErwEZ0RGgierU\/QoiCS7Jck=",
+      "Microsoft.AspNetCore.Components.Forms.dll": "sha256-Li4PRXFdOgU4EG7r\/STdKG8U2FJlMrY\/bxQhQsGwICw=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-0WGY9O6mBIfsbqEqVkudOQWESYqKRhaTioQk3Twqvdw=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-zARafz0vNUQ9qVFCoQO3oQSP+VMitM2+PZs+2OkxMgE=",
-      "Microsoft.AspNetCore.Metadata.dll": "sha256-hXAd66KKDdPFPpv7aqk5iax9UhTcBUufrs8eHMuWft8=",
+      "Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll": "sha256-J+GEhSs7RElL8esN4UTBk0kX5HD\/prjzQ6+i\/t0R9gQ=",
+      "Microsoft.AspNetCore.Metadata.dll": "sha256-gnc+PVbmWP6vWXYgIbnhIyEll2ok6iKRa9wueeJF5lU=",
       "Microsoft.Extensions.Configuration.dll": "sha256-c8yYhfrOBLEnOBglLTu9peXSbJDwFpuT4UQiXSv28Og=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-5Otet+KKVUjNkE\/hqcNWmt75H1K2VNuKPFagpRd6Ces=",
       "Microsoft.Extensions.Configuration.Binder.dll": "sha256-wNKhG3Ovx8jqxbscz2AALlsTLfI6GL2dyDhe63mSsoM=",
@@ -27,9 +29,9 @@
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-1XXJ0VQ8pybOFNvf\/RA+k+pSfNRrsoMW2h9BItvFXVY=",
       "Microsoft.Extensions.Options.dll": "sha256-eGESyy9mRu8RcCGajAu4E8nxSmeB5nxiZkFPVaZ5Vl0=",
       "Microsoft.Extensions.Primitives.dll": "sha256-jOmoWSfsdQexH\/6QCA56gR1RMEqeix2iDDUBWbpAOQI=",
-      "Microsoft.JSInterop.dll": "sha256-U4TlhQzx2DEFb2LgmELxAvWalkXk5Dx\/HsVDyQH8ubA=",
+      "Microsoft.JSInterop.dll": "sha256-tRzkW7Ekx3RsrBe894cfFYg4obJQxUjxuFkMwxh+EmA=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-11MM537VpREUoEMIiXr2jsO5eqHCkixj9Zi1I4hLPOw=",
-      "System.IO.Pipelines.dll": "sha256-fpnawcAWgJ8i0JPJ9DhQ8XFDKYsTi6md2eRFNh\/bONA=",
+      "System.IO.Pipelines.dll": "sha256-OXr1SqT\/FRQmnxVa6n811yUyJraU4tzQs5skNCiDmiM=",
       "Microsoft.CSharp.dll": "sha256-G204dE5axR66hiRzw+nCGd4NhoW2pyGNAYxvjKjtbY0=",
       "Microsoft.VisualBasic.Core.dll": "sha256-jwW4\/Q\/7wz7Q2oAlGi4JWwPkJHhDDnumGSirhZNF3h4=",
       "Microsoft.VisualBasic.dll": "sha256-N4tachHLSjJd8OmDatjMSqds2Igm2jRL\/Ak9jmWxzZg=",
@@ -196,15 +198,15 @@
       "mscorlib.dll": "sha256-+5VU+MYaTQMTlRe9QKobEjWZWv6I9teAGdNndWSBqWE=",
       "netstandard.dll": "sha256-E5RFhGIaDH5QM6BEbFUuHU8U9wP6N6jbo5MCttzLOCM=",
       "System.Private.CoreLib.dll": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
-      "PruebaTecnica2022.Shared.dll": "sha256-4lj1+6E0ib9QdtqpRJzP34GM7KvK5ZV4UoXxk9KrPCE=",
-      "PruebaTecnica2022.Client.dll": "sha256-F2JuLsZmCIrUvztYFX139pJJ8zuPb\/FloG5N71673+o="
+      "PruebaTecnica2022.Shared.dll": "sha256-iDbaAJGIOsfWBdOnHUn8pGzTceMJz\/euu3DedrmMnls=",
+      "PruebaTecnica2022.Client.dll": "sha256-Dmknisolh1bhD6kPU3cYANgY135S4gps2S2T\/gIdRTM="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "PruebaTecnica2022.Shared.pdb": "sha256-m0FxzfGRSgrFXlPwZFiKVddJxEo2eXbgCI7LV7kAKJ4=",
-      "PruebaTecnica2022.Client.pdb": "sha256-4ABToWJxY7Y96l6TTs+AM\/FX6+lW5JWVBgwrXgKcArs="
+      "PruebaTecnica2022.Shared.pdb": "sha256-XNTPEIyXdUAUvt3hxjmWBq5S9E4zoDrOtcmnVsdvie4=",
+      "PruebaTecnica2022.Client.pdb": "sha256-Yeb9KmxWdN7d89\/uioqXpbObp5df\/PidqVApuaELBLI="
     },
     "runtime": {
       "dotnet.6.0.1.lbk9uii5xb.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",

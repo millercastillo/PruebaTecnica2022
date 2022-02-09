@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "shEhDja7VI9v+ReMW7GGJ3CjkL9aT01y1RnXqZiD4O4=",
+  "Hash": "cX9L3i19sq5A9ozaDNeh5v/dAun0WGczGk2DWyEgwnw=",
   "Source": "PruebaTecnica2022.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.2\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.2\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.2\\staticwebassets\\AuthenticationService.js"
+    },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "PruebaTecnica2022.Client",
@@ -184,7 +201,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.1\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.2\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.2\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -201,7 +235,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.1\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.2\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -218,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.1\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.2\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -235,7 +269,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.1\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.2\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.2\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -269,7 +320,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.1\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.2\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -541,7 +592,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.jsinterop\\6.0.1\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.jsinterop\\6.0.2\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -1578,7 +1629,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\system.io.pipelines\\6.0.1\\lib\\net6.0\\System.IO.Pipelines.dll"
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\system.io.pipelines\\6.0.2\\lib\\net6.0\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.dll",
@@ -3570,6 +3621,23 @@
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceModel.Web.dll"
     },
     {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\1O3uxEhq.gz",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll"
+    },
+    {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\2+zyANMD.gz",
       "SourceId": "PruebaTecnica2022.Client",
       "SourceType": "Computed",
@@ -3587,6 +3655,23 @@
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll"
     },
     {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\29+N8PaB.gz",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\2EEEjcVI.gz",
       "SourceId": "PruebaTecnica2022.Client",
       "SourceType": "Computed",
@@ -3602,6 +3687,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.DataSetExtensions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\3n9grpdN.gz",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\3S9eaIsh.gz",
@@ -3670,23 +3772,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Windows.dll"
-    },
-    {
-      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\5gJnKpos.gz",
-      "SourceId": "PruebaTecnica2022.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\5ijxthz8.gz",
@@ -3959,23 +4044,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Tracing.dll"
-    },
-    {
-      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\92o+oNEB.gz",
-      "SourceId": "PruebaTecnica2022.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\A1afysnn.gz",
@@ -4284,6 +4352,23 @@
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.dll"
     },
     {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\cTs8gcB8.gz",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\CxkMmYWR.gz",
       "SourceId": "PruebaTecnica2022.Client",
       "SourceType": "Computed",
@@ -4573,23 +4658,6 @@
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Primitives.dll"
     },
     {
-      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\GH8xfPTm.gz",
-      "SourceId": "PruebaTecnica2022.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\ghwowKJv.gz",
       "SourceId": "PruebaTecnica2022.Client",
       "SourceType": "Computed",
@@ -4794,6 +4862,23 @@
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.InteropServices.dll"
     },
     {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\IC7IovjU.gz",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\iCkhZEdN.gz",
       "SourceId": "PruebaTecnica2022.Client",
       "SourceType": "Computed",
@@ -4964,23 +5049,6 @@
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Buffers.dll"
     },
     {
-      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\JiZDVLy3.gz",
-      "SourceId": "PruebaTecnica2022.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\jjy7H0Ho.gz",
       "SourceId": "PruebaTecnica2022.Client",
       "SourceType": "Computed",
@@ -4996,23 +5064,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlDocument.dll"
-    },
-    {
-      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\jlEZmpHb.gz",
-      "SourceId": "PruebaTecnica2022.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\jq+I7+uB.gz",
@@ -5355,23 +5406,6 @@
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Csp.dll"
     },
     {
-      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\MXSBMkdD.gz",
-      "SourceId": "PruebaTecnica2022.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\N8OmlmpA.gz",
       "SourceId": "PruebaTecnica2022.Client",
       "SourceType": "Computed",
@@ -5576,6 +5610,23 @@
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Configuration.dll"
     },
     {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\OcwpzFCu.gz",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\Oim6pK+9.gz",
       "SourceId": "PruebaTecnica2022.Client",
       "SourceType": "Computed",
@@ -5676,6 +5727,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.ServicePoint.dll"
+    },
+    {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\OTt5tXu9.gz",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\P+jyagTw.gz",
@@ -6426,6 +6494,23 @@
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\vlyv28cY.gz",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\vmH5G9cK.gz",
       "SourceId": "PruebaTecnica2022.Client",
       "SourceType": "Computed",
@@ -6526,23 +6611,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\PruebaTecnica2022.Client.pdb"
-    },
-    {
-      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\wQiD55ap.gz",
-      "SourceId": "PruebaTecnica2022.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\wTD9kV0R.gz",
@@ -6849,6 +6917,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\ZsY65IT9.gz",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\ZXJ+mPPW.gz",
