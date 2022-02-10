@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cX9L3i19sq5A9ozaDNeh5v/dAun0WGczGk2DWyEgwnw=",
+  "Hash": "ZQZ2mfXyI1ItyGPmHOXwV8qCSFAko69B46TfbKsnGtA=",
   "Source": "PruebaTecnica2022.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -32,6 +32,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.2\\staticwebassets\\AuthenticationService.js"
+    },
+    {
+      "Identity": "C:\\Users\\milcasmu\\.nuget\\packages\\mudblazor\\6.0.6\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\milcasmu\\.nuget\\packages\\mudblazor\\6.0.6\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\mudblazor\\6.0.6\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\milcasmu\\.nuget\\packages\\mudblazor\\6.0.6\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\milcasmu\\.nuget\\packages\\mudblazor\\6.0.6\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\mudblazor\\6.0.6\\staticwebassets\\MudBlazor.min.js"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
@@ -695,6 +729,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.1\\runtimes\\browser-wasm\\lib\\net6.0\\mscorlib.dll"
+    },
+    {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\.nuget\\packages\\mudblazor\\6.0.6\\lib\\net6.0\\MudBlazor.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\netstandard.dll",
@@ -3959,6 +4010,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.Extensions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\7wnCYLkB.gz",
+      "SourceId": "PruebaTecnica2022.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll"
     },
     {
       "Identity": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\obj\\Debug\\net6.0\\build-gz\\7YNjj062.gz",

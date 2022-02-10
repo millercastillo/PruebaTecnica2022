@@ -1,7 +1,8 @@
 ﻿@page "/"
 @inject IRepositorio repositorio
 
-
+<MudTextField Variant="Variant.Outlined" T="string"></MudTextField>
+<MudButton Color="Color.Error"  >eliminar</MudButton>
 <div>
     @foreach (var item in repositorio.ObtenerPeliculas())
     {

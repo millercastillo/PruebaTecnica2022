@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using MudBlazor.Services;
 using PruebaTecnica2022.Client;
 using PruebaTecnica2022.Client.Repositorios;
 
@@ -10,6 +11,7 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 
 ConfigureServices(builder.Services);
+builder.Services.AddMudServices();
 
 await builder.Build().RunAsync();
 

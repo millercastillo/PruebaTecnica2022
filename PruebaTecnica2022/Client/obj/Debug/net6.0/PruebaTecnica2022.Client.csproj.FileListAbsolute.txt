@@ -829,3 +829,7 @@ C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTec
 C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\obj\Debug\net6.0\build-gz\IC7IovjU.gz
 C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\obj\Debug\net6.0\build-gz\OTt5tXu9.gz
 C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\obj\Debug\net6.0\build-gz\ZsY65IT9.gz
+C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\bin\Debug\net6.0\wwwroot\_framework\MudBlazor.dll
+C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\bin\Debug\net6.0\wwwroot\_framework\MudBlazor.dll.gz
+C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\obj\Debug\net6.0\build-gz\7wnCYLkB.gz

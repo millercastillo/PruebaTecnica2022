@@ -1,10 +1,16 @@
 using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.EntityFrameworkCore;
+using PruebaTecnica2022.Server;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+//Conexion por defecto de la base de datos
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConncection"));
+});
 builder.Services.AddRazorPages();
 
 var app = builder.Build();

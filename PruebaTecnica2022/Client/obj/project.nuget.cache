@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XTHoXWGtcAawa29vSkoRTDEPm7UUS66OdDHyeuqsEGRq2wGFkDmh0okxx9Q+rI3ilhZ6X6Nq/7y3Lo62mwWC9A==",
+  "dgSpecHash": "i43JrWKHi95WIsSDuH2TjfHiUTRz3p9vsMX4N1wGqqgOY7x7Z9Lg0Pjly9fUDQHOEET4DhGx3874VjLlfI9piA==",
   "success": true,
   "projectFilePath": "C:\\Users\\milcasmu\\OneDrive - Carvajal S.A\\Escritorio\\PruebaTecnica2022\\PruebaTecnica2022\\PruebaTecnica2022\\Client\\PruebaTecnica2022.Client.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.jsinterop\\6.0.2\\microsoft.jsinterop.6.0.2.nupkg.sha512",
     "C:\\Users\\milcasmu\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.1\\microsoft.jsinterop.webassembly.6.0.1.nupkg.sha512",
+    "C:\\Users\\milcasmu\\.nuget\\packages\\mudblazor\\6.0.6\\mudblazor.6.0.6.nupkg.sha512",
     "C:\\Users\\milcasmu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\milcasmu\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512",
     "C:\\Users\\milcasmu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
