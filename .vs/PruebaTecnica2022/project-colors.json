@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1db8d82-8fe9-49a5-b375-d42c669a8c6c": {
+      "ProjectGuid": "d1db8d82-8fe9-49a5-b375-d42c669a8c6c",
+      "DisplayName": "PruebaTecnica2022.Server",
+      "ColorIndex": 0
+    },
+    "5ca5d09a-77a2-44fe-a24e-afb6b0507b72": {
+      "ProjectGuid": "5ca5d09a-77a2-44fe-a24e-afb6b0507b72",
+      "DisplayName": "PruebaTecnica2022.Client",
+      "ColorIndex": 1
+    },
+    "b29e7823-4584-4081-821f-9d1d9af8aab4": {
+      "ProjectGuid": "b29e7823-4584-4081-821f-9d1d9af8aab4",
+      "DisplayName": "PruebaTecnica2022.Shared",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -17,4 +17,8 @@
     <ProjectReference Include="..\Shared\PruebaTecnica2022.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\Peliculas\" />
+  </ItemGroup>
+
 </Project>

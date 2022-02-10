@@ -1,7 +1,7 @@
 ﻿
 <EditForm Model="Genero" OnValidSubmit="OnValidSubmit">
     <DataAnnotationsValidator />
-    <div class="form-group">
+    <div class="form-group pt-4 pb-4">
         <div>
             @*<InputText class="form-control" @bind-Value="@Genero.Nombre" />*@
             <MudTextField Class="form-control" @bind-Value="@Genero.Nombre" Label="Nombre" Variant="Variant.Outlined"></MudTextField>
@@ -11,7 +11,6 @@
     <MudButton Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Save" Color="Color.Info"  Size="Size.Medium" ButtonType="ButtonType.Submit">Guardar Cambios</MudButton>
     @*<button class="btn btn-success" type="submit">Guardar Cambios</button>*@
 </EditForm>
-
 @code {
     [Parameter] public Genero Genero { get; set; }
     [Parameter] public EventCallback OnValidSubmit { get; set; }

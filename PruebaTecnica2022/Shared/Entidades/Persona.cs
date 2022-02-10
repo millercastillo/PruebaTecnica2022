@@ -19,5 +19,9 @@ namespace PruebaTecnica2022.Shared.Entidades
         /// Nombre de la persona
         /// </summary>
         public string? Nombre { get; set; }
+        /// <summary>
+        /// Fotografia de la persona
+        /// </summary>
+        public string? Foto { get; set; }
     }
 }

@@ -1,0 +1,27 @@
+﻿@page "/personas/crear"
+@inject IRepositorio repositorio
+@inject IMostrarMensajes mostrarMensajes
+@inject NavigationManager navigationManager
+
+<MudAppBar Color="Color.Primary" Fixed="false">
+    <MudText Align="Align.Center" Typo="Typo.h4">Crear persona</MudText>
+</MudAppBar>
+
+<FormularioPersonas OnValidSubmit="Crear" Persona="Persona" />
+
+@code {
+    private Persona Persona = new Persona();
+
+    async Task Crear()
+    {
+        var httpResponse = await repositorio.Post("api/personas", Persona);
+        if (httpResponse.Error)
+        {
+           await mostrarMensajes.MostrarMensajeError(await httpResponse.GetBody());
+        }
+        else
+        {
+            navigationManager.NavigateTo("/personas");
+        }
+    }
+}

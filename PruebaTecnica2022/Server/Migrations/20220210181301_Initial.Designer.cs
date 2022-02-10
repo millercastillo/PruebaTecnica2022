@@ -12,7 +12,7 @@ using PruebaTecnica2022.Server;
 namespace PruebaTecnica2022.Server.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220210043932_Initial")]
+    [Migration("20220210181301_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -89,6 +89,9 @@ namespace PruebaTecnica2022.Server.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Foto")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Nombre")
                         .HasColumnType("nvarchar(max)");

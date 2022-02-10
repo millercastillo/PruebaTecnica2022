@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using MudBlazor.Services;
 using PruebaTecnica2022.Client;
+using PruebaTecnica2022.Client.Helpers;
 using PruebaTecnica2022.Client.Repositorios;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
@@ -21,4 +22,5 @@ await builder.Build().RunAsync();
 static void ConfigureServices(IServiceCollection services)
 {
     services.AddScoped<IRepositorio, Repositorio>();
+    services.AddScoped<IMostrarMensajes, MostrarMensajes>();
 }

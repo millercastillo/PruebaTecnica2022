@@ -1,8 +1,11 @@
 ﻿@page "/generos/crear"
 @inject IRepositorio repositorio
+@inject IMostrarMensajes mostrarMensajes
 @inject NavigationManager navigationManager
 
-<h3>Crear Genero</h3>
+<MudAppBar Color="Color.Primary" Fixed="false">
+    <MudText Align="Align.Center" Typo="Typo.h4">Crear genero</MudText>
+</MudAppBar>
 
 <FormularioGenero OnValidSubmit="Crear" Genero="Genero" />
 
@@ -14,9 +17,8 @@
         var httpResponse = await repositorio.Post("api/generos", Genero);
         if (httpResponse.Error)
         {
-            var body = await httpResponse.HttpResponseMessage.Content.ReadAsStringAsync();
-            Console.WriteLine(body);
-            //await mostrarMensajes.MostrarMensajeError(body);
+            var body = await httpResponse.GetBody();
+            await mostrarMensajes.MostrarMensajeError(body);
         }
         else
         {

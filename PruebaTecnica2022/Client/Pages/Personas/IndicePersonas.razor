@@ -1,0 +1,16 @@
+﻿@page "/personas"
+@inject IRepositorio repositorio
+@inject IMostrarMensajes mostrarMensajes
+
+<h3>Indice Personas</h3>
+
+<div class="form-group" style="align-content:end">
+    
+    <MudButton Link="personas/crear" Variant="Variant.Filled" StartIcon="@Icons.Filled.Add" Color="Color.Info"  Size="Size.Medium">Crear Persona</MudButton>
+    @*<a class="btn btn-info" href="personas/crear">Crear Persona</a>*@
+</div>
+
+
+@code {
+    
+}

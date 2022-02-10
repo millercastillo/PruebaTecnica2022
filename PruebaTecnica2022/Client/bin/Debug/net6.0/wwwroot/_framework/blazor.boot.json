@@ -199,15 +199,15 @@
       "mscorlib.dll": "sha256-+5VU+MYaTQMTlRe9QKobEjWZWv6I9teAGdNndWSBqWE=",
       "netstandard.dll": "sha256-E5RFhGIaDH5QM6BEbFUuHU8U9wP6N6jbo5MCttzLOCM=",
       "System.Private.CoreLib.dll": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
-      "PruebaTecnica2022.Shared.dll": "sha256-n19nr23q+v5B6KFlPZYCudI3WUWu7RANJ3BzTb9pAKk=",
-      "PruebaTecnica2022.Client.dll": "sha256-w4+BzMx8+s2iA6SdTzRIRwp1UE\/2XRtycWzDBPEsIyI="
+      "PruebaTecnica2022.Shared.dll": "sha256-mJFuE43L9Ov5x7H+9ncKkN38sfQg87h+wgw9Bz8R0AA=",
+      "PruebaTecnica2022.Client.dll": "sha256-cKnX\/HPn5Y1hYQ5r1KNOZuaNzLxyWXk5b089KDrThFg="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "PruebaTecnica2022.Shared.pdb": "sha256-5321kaFSgy4fHJiuqfTxhDlxsy95iP+39ay8BvzsA8c=",
-      "PruebaTecnica2022.Client.pdb": "sha256-FpbGJtxpc3G+omWZsGZ\/ONmQu3usuDXwi6X0BXGVNwU="
+      "PruebaTecnica2022.Shared.pdb": "sha256-K4Hqfs63fVg6x72EWyEExfTEQkPpVUBT1MGJUHDdMcs=",
+      "PruebaTecnica2022.Client.pdb": "sha256-asbyYYxDQgv1A\/GKc0OpYYKzT7gZ5zL4SqPAJUyD7a4="
     },
     "runtime": {
       "dotnet.6.0.1.lbk9uii5xb.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",

@@ -1,0 +1,324 @@
+﻿++Solution 'PruebaTecnica2022' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:PruebaTecnica2022.sln
+++PruebaTecnica2022.Shared
+i:{00000000-0000-0000-0000-000000000000}:PruebaTecnica2022.Shared
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\shared\pruebatecnica2022.shared.csproj
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\shared\pruebatecnica2022.shared.csproj
+++Dependencies
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:>379
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:>28
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:>368
+++Entidades
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\shared\entidades\
+++Pelicula.cs
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\shared\entidades\pelicula.cs
+++WeatherForecast.cs
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\shared\weatherforecast.cs
+++Analyzers
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:analyzers
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:analyzers
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:analyzers
+++Frameworks
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:frameworks
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:frameworks
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:frameworks
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\shared\microsoft.netcore.app
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\microsoft.netcore.app
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\microsoft.netcore.app
+++PruebaTecnica2022.Server
+i:{00000000-0000-0000-0000-000000000000}:PruebaTecnica2022.Server
+++Connected Services 
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:>29
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:>369
+++Properties
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\properties\
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\properties\
+++Controllers
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\controllers\
+++Pages
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\pages\
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\
+++appsettings.json
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\appsettings.json
+++Program.cs
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\program.cs
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\program.cs
+++No service dependencies discovered
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:>370
+++Packages
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:packages
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:packages
+++Projects
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:projects
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:projects
+++launchSettings.json
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\properties\launchsettings.json
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\properties\launchsettings.json
+++WeatherForecastController.cs
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\controllers\weatherforecastcontroller.cs
+++Error.cshtml
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\pages\error.cshtml
+++appsettings.Development.json
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\.nuget\packages\microsoft.aspnetcore.components.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.Extensions.Logging.Generators
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Components.WebAssembly.Server (6.0.1)
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:>395
+++PruebaTecnica2022.Client
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pruebatecnica2022.client.csproj
+i:{00000000-0000-0000-0000-000000000000}:PruebaTecnica2022.Client
+++Error.cshtml.cs
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\pages\error.cshtml.cs
+++wwwroot
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\
+++Counter.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\counter.razor
+++FetchData.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\fetchdata.razor
+++Index.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\index.razor
+++Repositorios
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\repositorios\
+++IRepositorio.cs
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\repositorios\irepositorio.cs
+++Repositorio.cs
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\repositorios\repositorio.cs
+++Shared
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\shared\
+++MainLayout.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\shared\mainlayout.razor
+++NavMenu.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\shared\surveyprompt.razor
+++_Imports.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\_imports.razor
+++App.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\app.razor
+++WebApplication.cs
+++css
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\font\css\
+++favicon.ico
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\favicon.ico
+++icon-192.png
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\icon-192.png
+++index.html
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\index.html
+++MainLayout.razor.css
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\shared\navmenu.razor.css
+++ILLink.CodeFixProvider
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+++ILLink.RoslynAnalyzer
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+++Microsoft.AspNetCore.Components.WebAssembly (6.0.1)
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:>407
+++Microsoft.AspNetCore.Components.WebAssembly.Authentication (6.0.2)
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:>2322
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (6.0.1)
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:>408
+++bootstrap
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\bootstrap\
+++open-iconic
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\
+++app.css
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\app.css
+++bootstrap.min.css
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\bootstrap\bootstrap.min.css
+++font
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\readme.md
+++bootstrap.min.css.map
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\bootstrap\bootstrap.min.css.map
+++fonts
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\font\fonts\
+++open-iconic-bootstrap.min.css
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++Script Documents
+++localhost꞉7281/_framework/blazor.webassembly.js
+++localhost꞉7281/_framework/aspnetcore-browser-refresh.js
+++localhost꞉44399/12f56c813c354c14a592026d0d301d22/browserLink
+++localhost꞉7281/_framework/dotnet.6.0.1.lbk9uii5xb.js
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Shared\WeatherForecast.cs
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Shared\Entidades\Pelicula.cs
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Shared\SurveyPrompt.razor
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Shared\MainLayout.razor
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Shared\NavMenu.razor
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Pages\Counter.razor
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Pages\FetchData.razor
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Pages\Index.razor
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Repositorios\Repositorio.cs
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Program.cs
+++mono-wasm.invalid/converter_ii_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_ii_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_GetCSOwnedObjectByJSHandle
+++mono-wasm.invalid/converter_mi
+++mono-wasm.invalid/variadic_converter_mi
+++mono-wasm.invalid/managed_BINDINGS_GetCSOwnedObjectJSHandle
+++mono-wasm.invalid/managed_BINDINGS_TryGetCSOwnedObjectJSHandle
+++mono-wasm.invalid/converter_iii_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateCSOwnedProxy
+++mono-wasm.invalid/variadic_converter_iii_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_i_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_GetJSOwnedObjectByGCHandle
+++mono-wasm.invalid/converter_m
+++mono-wasm.invalid/variadic_converter_m
+++mono-wasm.invalid/managed_BINDINGS_GetJSOwnedObjectGCHandle
+++mono-wasm.invalid/converter_i_result_unmarshaled
+++mono-wasm.invalid/converter_i
+++mono-wasm.invalid/managed_BINDINGS_ReleaseJSOwnedObjectByGCHandle
+++mono-wasm.invalid/variadic_converter_i
+++mono-wasm.invalid/converter_
+++mono-wasm.invalid/variadic_converter_
+++mono-wasm.invalid/managed_BINDINGS_CreateTaskSource
+++mono-wasm.invalid/converter_io
+++mono-wasm.invalid/variadic_converter_io
+++mono-wasm.invalid/managed_BINDINGS_SetTaskSourceResult
+++mono-wasm.invalid/converter_is
+++mono-wasm.invalid/variadic_converter_is
+++mono-wasm.invalid/managed_BINDINGS_SetTaskSourceFailure
+++mono-wasm.invalid/managed_BINDINGS_GetTaskSourceTask
+++mono-wasm.invalid/converter_mo
+++mono-wasm.invalid/variadic_converter_mo
+++mono-wasm.invalid/managed_BINDINGS_SetupJSContinuation
+++mono-wasm.invalid/managed_BINDINGS_ObjectToString
+++mono-wasm.invalid/managed_BINDINGS_GetDateValue
+++mono-wasm.invalid/converter_d_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_d_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateDateTime
+++mono-wasm.invalid/variadic_converter_s_result_unmarshaled
+++mono-wasm.invalid/converter_s_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateUri
+++mono-wasm.invalid/managed_BINDINGS_IsSimpleArray
+++mono-wasm.invalid/converter_im
+++mono-wasm.invalid/variadic_converter_im
+++mono-wasm.invalid/converter_ssss
+++mono-wasm.invalid/variadic_converter_ssss
+++mono-wasm.invalid/converter_s
+++mono-wasm.invalid/variadic_converter_s
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_InvokeDotNet
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_BeginInvokeDotNet
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_EndInvokeJS
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_NotifyByteArrayAvailable
+++localhost꞉7281/_framework/blazor-hotreload.js
+++Genero.cs
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\shared\entidades\genero.cs
+++GeneroPelicula.cs
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\shared\entidades\generopelicula.cs
+++Persona.cs
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\shared\entidades\persona.cs
+++ApplicationDbContext.cs
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\applicationdbcontext.cs
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:>3830
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:>3832
+++SQL Server Database
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:>3833
+++SQL Server Database dependency is detected
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:>3834
+++MudBlazor (6.0.6)
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:>5401
+++localhost꞉7281/_content/MudBlazor/MudBlazor.min.js
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Shared\Entidades\Genero.cs
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Shared\Entidades\GeneroPelicula.cs
+++Ventas.cs
+i:{b29e7823-4584-4081-821f-9d1d9af8aab4}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\shared\entidades\ventas.cs
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Shared\Entidades\Persona.cs
+++Migrations
+++20220210033039_Initial.cs
+++ApplicationDbContextModelSnapshot.cs
+++20220210033039_Initial.Designer.cs
+++20220210034212_Initial.cs
+++20220210034212_Initial.Designer.cs
+++20220210041355_Initial.cs
+++20220210041355_Initial.Designer.cs
+++20220210043932_Initial.cs
+++20220210043932_Initial.Designer.cs
+++HttpResponseWrapper.cs
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\repositorios\httpresponsewrapper.cs
+++GenerosController.cs
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\controllers\generoscontroller.cs
+++CrearPelicula.razor
+++NewFolder
+++Pelicula
+++Peliculas.razor
+++CrearGenero.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\generos\creargenero.razor
+++Genero
+++Generos
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\generos\
+++IndiceGeneros.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\generos\indicegeneros.razor
+++FormularioGenero.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\generos\formulariogenero.razor
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Shared\Entidades\Ventas.cs
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Pages\Generos\CrearGenero.razor
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Pages\Generos\FormularioGenero.razor
+++file://c:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Client\Repositorios\HttpResponseWrapper.cs
+++PersonasController.cs
+i:{d1db8d82-8fe9-49a5-b375-d42c669a8c6c}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\server\controllers\personascontroller.cs
+++Personas
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\personas\
+++CrearPersona.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\personas\crearpersona.razor
+++FormularioPersonasComponent.razor
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\pages\personas\formulariopersonascomponent.razor
+++Helpers
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\helpers\
+++IMostrarMensajes.cs
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\helpers\imostrarmensajes.cs
+++MostrarMensajes.cs
+i:{5ca5d09a-77a2-44fe-a24e-afb6b0507b72}:c:\users\milcasmu\onedrive - carvajal s.a\escritorio\pruebatecnica2022\pruebatecnica2022\pruebatecnica2022\client\helpers\mostrarmensajes.cs
