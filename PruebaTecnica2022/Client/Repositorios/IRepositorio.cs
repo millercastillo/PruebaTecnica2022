@@ -9,5 +9,6 @@ namespace PruebaTecnica2022.Client.Repositorios
         /// </summary>
         /// <returns></returns>
         List<Pelicula> ObtenerPeliculas();
+        Task<HttpResponseWrapper<object>> Post<T>(string url, T enviar);
     }
 }
