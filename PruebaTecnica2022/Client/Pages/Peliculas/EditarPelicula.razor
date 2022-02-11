@@ -1,0 +1,23 @@
+﻿@page "/peliculas/editar/{PeliculaId:int}"
+@inject IRepositorio repositorio
+@inject IMostrarMensajes mostrarMensaje
+@inject NavigationManager navigationManager
+
+<h3>Editar Pelicula</h3>
+
+<FormularioPeliculas Pelicula="Pelicula" OnValidSubmit="Editar"></FormularioPeliculas>
+}
+
+@code {
+    [Parameter] public int PeliculaId { get; set; }
+    Pelicula Pelicula = new Pelicula();
+
+    protected  override void OnInitialized()
+    {
+        Pelicula = new Pelicula() { Id = PeliculaId, Titulo = "Mi pelicula" };
+    }
+    private void Editar()
+    {
+        Console.WriteLine("Editando pelicula");
+    }
+}

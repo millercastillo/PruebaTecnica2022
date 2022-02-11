@@ -29,8 +29,9 @@ namespace PruebaTecnica2022.Server.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Titulo = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Descripcion = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Descripcion = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Lanzamiento = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Foto = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Precio = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>

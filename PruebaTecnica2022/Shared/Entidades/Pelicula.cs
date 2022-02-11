@@ -10,10 +10,13 @@ namespace PruebaTecnica2022.Shared.Entidades
     {
         public int Id { get; set; }
         public string? Titulo { get; set; }
-        public string Descripcion { get; set; }
+        public string? Descripcion { get; set; }
         public DateTime Lanzamiento { get; set; }
-        public  List<GeneroPelicula> GeneroPelicula { get; set; } = new List<GeneroPelicula>(); 
+        /// <summary>
+        /// Fotografia de la pelicula
+        /// </summary>
+        public string? Foto { get; set; }
         public int  Precio { get; set; } = 0;
-        //Aqui va imagen
+        public List<GeneroPelicula> GeneroPelicula { get; set; } = new List<GeneroPelicula>();
     }
 }

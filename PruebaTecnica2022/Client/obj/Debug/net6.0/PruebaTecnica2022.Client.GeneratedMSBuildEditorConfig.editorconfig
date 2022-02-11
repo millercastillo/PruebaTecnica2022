@@ -46,6 +46,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Pages/Peliculas/CrearPelicula.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXENyZWFyUGVsaWN1bGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Pages/Peliculas/EditarPelicula.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXEVkaXRhclBlbGljdWxhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Pages/Peliculas/FormularioPeliculas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXEZvcm11bGFyaW9QZWxpY3VsYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Pages/Peliculas/IndicePeliculas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXEluZGljZVBlbGljdWxhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Pages/Personas/CrearPersona.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYXNcQ3JlYXJQZXJzb25hLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
