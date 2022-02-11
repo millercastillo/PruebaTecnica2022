@@ -1,0 +1,30 @@
+﻿<div style="margin-right: 2%; margin-bottom: 10px; text-align: center;">
+    <a href="@urlPelicula">
+        <img src="data:image/jpg;base64, @Pelicula.Foto" alt="Poster" style="width: 225px; height:300px;"/>
+    </a>
+    <p style="max-width: 225px; height: 44px; font-size: 15px; font-weight: bold;"><a href="@urlPelicula">@Pelicula.Titulo</a></p>
+    
+    <MudItem  xs="12">
+        <MudGrid Justify="Justify.Center">
+            <MudItem xs="6">
+                <MudNumericField @bind-Value="Cantidad" Label="Cantidad" Variant="Variant.Text" Min="1" Max="10" />
+            </MudItem>
+        </MudGrid>
+    </MudItem>
+    <div class="pt-2">
+        <MudButton Variant="Variant.Filled" StartIcon="@Icons.Filled.AddShoppingCart" Color="Color.Primary"  Size="Size.Medium" @onclick="@(() => ComprarPelicula.InvokeAsync(Pelicula))">Comprar</MudButton>
+    </div>
+</div>
+
+@code {
+    [Parameter] public Pelicula Pelicula { get; set; }
+    [Parameter] public int Cantidad { get; set; }
+    [Parameter] public bool MostrarBotones { get; set; } = false;
+    [Parameter] public EventCallback<Pelicula> ComprarPelicula { get; set; }
+    private string urlPelicula = string.Empty;
+
+    protected override void OnInitialized()
+    {
+        urlPelicula = $"pelicula/{Pelicula?.Id}/{Pelicula?.Titulo?.Replace(" ", "-")}";
+    }
+}

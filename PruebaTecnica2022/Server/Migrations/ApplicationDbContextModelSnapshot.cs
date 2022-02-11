@@ -112,10 +112,16 @@ namespace PruebaTecnica2022.Server.Migrations
                     b.Property<int>("Cantidad")
                         .HasColumnType("int");
 
+                    b.Property<int>("CodigoProducto")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Precio")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Total")
                         .HasColumnType("int");
 
                     b.HasKey("Id");

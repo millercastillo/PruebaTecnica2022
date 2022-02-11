@@ -1,0 +1,80 @@
+﻿@page "/ventas"
+@inject IRepositorio  repositorio
+@using System.Net.Http.Json
+@using static MudBlazor.CategoryTypes
+@inject HttpClient httpClient
+
+<MudAppBar Color="Color.Primary" Fixed="false">
+    <MudText Align="Align.Center" Typo="Typo.h4">Top Ventas</MudText>
+</MudAppBar>
+
+<MudTable Items="@ventas1" Hover="true" Breakpoint="Breakpoint.Sm">
+    <HeaderContent>
+        <MudTh>Código</MudTh>
+        <MudTh>Nombre</MudTh>
+        <MudTh><MudTableSortLabel InitialDirection="SortDirection.Descending" SortBy="new Func<Ventas, object>(x=>x.Cantidad)">Cantidad</MudTableSortLabel></MudTh>
+        <MudTh>Precio</MudTh>
+        <MudTh>Total</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Código">@context.CodigoProducto</MudTd>
+        <MudTd DataLabel="Nombre">@context.Name</MudTd>
+        <MudTd DataLabel="Cantidad">@context.Cantidad</MudTd>
+        <MudTd DataLabel="Precio">@context.Precio</MudTd>
+        <MudTd DataLabel="Total">@context.Total</MudTd>
+    </RowTemplate>
+</MudTable>
+
+
+@code {
+    private List<Ventas> ventas = new List<Ventas>();
+    //Guarda los productos diferentes
+    private List<Ventas> ventas1 = new List<Ventas>();
+
+    protected async override Task OnInitializedAsync()
+    {
+        var httpResponse = await repositorio.Get<List<Ventas>>("api/ventas");
+        ventas = httpResponse.Response;
+        foreach (var item in ventas)
+        {
+            if(!EstaEnLista(item.CodigoProducto))
+            {
+                var venta = Ordenar(item);
+                ventas1.Add(venta);
+            }
+        }
+    }
+    public Ventas Ordenar(Ventas value)
+    {
+        int Cantidad=0;
+        foreach (var item in ventas)
+        {
+            if(item.CodigoProducto.Equals(value.CodigoProducto))
+            {
+                Cantidad = Cantidad + item.Cantidad;
+            }
+        }
+        value.Cantidad = Cantidad;
+        value.Total = value.Cantidad * value.Precio;
+        return value;
+
+    }
+    public bool EstaEnLista(int Codigo)
+    {
+        bool value=false;
+        if(ventas.Count == 0)
+        {
+            return false;
+        }
+        else
+        {
+            foreach (var item in ventas1)
+            {
+                if (item.CodigoProducto.Equals(Codigo))
+                    return true;
+
+            }    
+        }
+        return value;
+    }
+}

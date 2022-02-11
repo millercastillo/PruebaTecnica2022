@@ -1,0 +1,21 @@
+﻿@page "/peliculas/comprar"
+@inject IRepositorio  repositorio
+
+<MudAppBar Color="Color.Primary" Fixed="false">
+    <MudText Align="Align.Center" Typo="Typo.h4">Comprar Películas</MudText>
+</MudAppBar>
+
+<div class="pt-4">
+    <ListadoPeliculasComprar Peliculas="Peliculas" />
+</div>
+
+
+@code {
+    private List<Pelicula> Peliculas;
+
+    protected async override Task OnInitializedAsync()
+    {
+        var httpResponse = await repositorio.Get<PeliculasDTO>("api/peliculas");
+        Peliculas = httpResponse.Response.Peliculas;
+    }
+}

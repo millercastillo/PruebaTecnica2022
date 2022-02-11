@@ -46,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Pages/Peliculas/ComprarPelicula.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXENvbXByYXJQZWxpY3VsYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Pages/Peliculas/CrearPelicula.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXENyZWFyUGVsaWN1bGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -74,6 +78,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYXNcSW5kaWNlUGVyc29uYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Pages/Ventas/IndiceVentas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFzXEluZGljZVZlbnRhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Shared/InputImg.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0SW1nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -86,8 +94,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExpc3RhZG9QZWxpY3VsYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Shared/ListadoPeliculasComprar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExpc3RhZG9QZWxpY3VsYXNDb21wcmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Shared/PeliculaIndividual.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBlbGljdWxhSW5kaXZpZHVhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Shared/PeliculaIndividualComprar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBlbGljdWxhSW5kaXZpZHVhbENvbXByYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/milcasmu/OneDrive - Carvajal S.A/Escritorio/PruebaTecnica2022/PruebaTecnica2022/PruebaTecnica2022/Client/Shared/SurveyPrompt.razor]

@@ -1,0 +1,42 @@
+﻿@inject IJSRuntime js
+@inject NavigationManager navigationManager
+@inject IRepositorio repositorio
+@inject IMostrarMensajes mostrarMensajes
+
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <ListadoGenerico Listado="Peliculas">
+        <HayRegistros Context="pelicula">
+            <PeliculaIndividualComprar Pelicula="pelicula" ComprarPelicula="ComprarPelicula" />
+        </HayRegistros>
+    </ListadoGenerico>
+</div>
+
+@code {
+    [Parameter] public List<Pelicula> Peliculas { get; set; }
+    private Pelicula Pelicula = new Pelicula();
+    private Ventas Venta = new Ventas();
+
+    async Task ComprarPelicula(Pelicula pelicula)
+    {
+        Pelicula = pelicula;
+        var confirmar = await js.Confirm($"¿Desea comprar la película {pelicula.Titulo}?");
+        if (confirmar)
+        {
+            Venta.CodigoProducto = pelicula.Id;
+            Venta.Name = pelicula.Titulo;
+            Venta.Cantidad = 1;
+            Venta.Precio = Pelicula.Precio;
+            Venta.Total = pelicula.Precio * Venta.Cantidad;
+            var httpResponse = await repositorio.Post("api/ventas",Venta);
+            if (httpResponse.Error)
+            {
+                var mensajeError = await httpResponse.GetBody();
+                await mostrarMensajes.MostrarMensajeError(mensajeError);
+            }
+            else
+            {
+                Console.WriteLine($"Se ha realizado la compra de: {pelicula.Titulo}");
+            }
+        }
+    }
+}

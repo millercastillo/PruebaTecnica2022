@@ -12,7 +12,7 @@ using PruebaTecnica2022.Server;
 namespace PruebaTecnica2022.Server.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220211030653_Initial")]
+    [Migration("20220211082615_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -114,10 +114,16 @@ namespace PruebaTecnica2022.Server.Migrations
                     b.Property<int>("Cantidad")
                         .HasColumnType("int");
 
+                    b.Property<int>("CodigoProducto")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Precio")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Total")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
