@@ -3,7 +3,9 @@
 @inject IMostrarMensajes mostrarMensaje
 @inject NavigationManager navigationManager
 
-<h3>Editar Pelicula</h3>
+<MudAppBar Color="Color.Primary" Fixed="false">
+    <MudText Align="Align.Center" Typo="Typo.h4">Editar Pelicula</MudText>
+</MudAppBar>
 
 <FormularioPeliculas Pelicula="Pelicula" OnValidSubmit="Editar"></FormularioPeliculas>
 }

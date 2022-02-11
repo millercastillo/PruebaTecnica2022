@@ -9,3 +9,4 @@ C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTec
 C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Shared\obj\Debug\net6.0\PruebaTecnica2022.Shared.dll
 C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Shared\obj\Debug\net6.0\ref\PruebaTecnica2022.Shared.dll
 C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Shared\obj\Debug\net6.0\PruebaTecnica2022.Shared.pdb
+C:\Users\milcasmu\OneDrive - Carvajal S.A\Escritorio\PruebaTecnica2022\PruebaTecnica2022\PruebaTecnica2022\Shared\obj\Debug\net6.0\PruebaTecnica2022.Shared.csproj.AssemblyReference.cache

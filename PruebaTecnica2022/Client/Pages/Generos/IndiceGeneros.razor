@@ -1,7 +1,9 @@
 ﻿@page "/generos"
 @inject IRepositorio repositorio
 
-<h3>Indice Géneros</h3>
+<MudAppBar Color="Color.Primary" Fixed="false">
+    <MudText Align="Align.Center" Typo="Typo.h4">Géneros</MudText>
+</MudAppBar>
 
 <MudButton Variant="Variant.Filled" Color="Color.Info" StartIcon="@Icons.Filled.Add" Link="generos/crear" Size="Size.Medium">Agregar Género</MudButton>
 

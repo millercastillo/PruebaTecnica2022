@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using PruebaTecnica2022.Shared.DTOs;
 using PruebaTecnica2022.Shared.Entidades;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ namespace PruebaTecnica2022.Server.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class PeliculasController: ControllerBase
+    public class PeliculasController : ControllerBase
     {
         private readonly ApplicationDbContext context;
         //private readonly IAlmacenadorArchivos almacenadorDeArchivos;
@@ -29,6 +30,18 @@ namespace PruebaTecnica2022.Server.Controllers
             context.Add(Pelicula);
             await context.SaveChangesAsync();
             return Pelicula.Id;
+        }
+
+        [HttpGet]
+        public async Task<PeliculasDTO> Get()
+        {
+            var peliculas = await context.Peliculas.ToListAsync();
+
+            var response = new PeliculasDTO()
+            {
+                Peliculas = peliculas
+            };
+            return response;
         }
     }
 }

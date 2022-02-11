@@ -1,9 +1,23 @@
 ﻿@page "/peliculas"
-@inject IRepositorio repositorio
+@inject IRepositorio  repositorio
 
-<h3>IPeliculas</h3>
+<MudAppBar Color="Color.Primary" Fixed="false">
+    <MudText Align="Align.Center" Typo="Typo.h4">Películas</MudText>
+</MudAppBar>
+<div class="pt-4">
+    <MudButton Link="peliculas/crear" Variant="Variant.Filled" StartIcon="@Icons.Filled.Add" Color="Color.Info"  Size="Size.Medium">Crear Película</MudButton>
+</div>
+<div class="pt-4">
+    <ListadoPeliculas Peliculas="Peliculas" />
+</div>
 
-<MudButton Variant="Variant.Filled" Color="Color.Info" StartIcon="@Icons.Filled.Add" Link="peliculas/crear" Size="Size.Medium">Agregar Peliculas</MudButton>
+
 @code {
+    private List<Pelicula> Peliculas;
 
+    protected async override Task OnInitializedAsync()
+    {
+        var httpResponse = await repositorio.Get<PeliculasDTO>("api/peliculas");
+        Peliculas = httpResponse.Response.Peliculas;        
+    }
 }
