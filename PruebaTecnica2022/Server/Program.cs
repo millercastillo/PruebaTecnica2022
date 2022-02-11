@@ -1,6 +1,10 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using PruebaTecnica2022.Server;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +15,21 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConncection"));
 });
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+             .AddEntityFrameworkStores<ApplicationDbContext>()
+             .AddDefaultTokenProviders();
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                    .AddJwtBearer(options =>
+                 options.TokenValidationParameters = new TokenValidationParameters
+                 {
+                     ValidateIssuer = false,
+                     ValidateAudience = false,
+                     ValidateLifetime = true,
+                     ValidateIssuerSigningKey = true,
+                     IssuerSigningKey = new SymmetricSecurityKey(
+                    Encoding.UTF8.GetBytes(builder.Configuration["jwt:key"])),
+                     ClockSkew = TimeSpan.Zero
+                 });
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
@@ -33,6 +52,8 @@ app.UseBlazorFrameworkFiles();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();
+app.UseAuthorization(); 
 
 
 app.MapRazorPages();

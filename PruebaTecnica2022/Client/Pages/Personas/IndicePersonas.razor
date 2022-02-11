@@ -1,6 +1,7 @@
 ﻿@page "/personas"
 @inject IRepositorio repositorio
 @inject IMostrarMensajes mostrarMensajes
+@attribute [Authorize(Roles = "admin")]
 
 <h3>Indice Personas</h3>
 

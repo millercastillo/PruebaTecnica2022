@@ -1,6 +1,13 @@
 ﻿@page "/"
 @inject IRepositorio repositorio
-
+<AuthorizeView Roles="admin">
+    <Authorized>
+        <MudText>Estas autorizado, @context.User.Identity.Name</MudText>
+    </Authorized>
+    <NotAuthorized>
+        <MudText>No estas autorizado</MudText>
+    </NotAuthorized>
+</AuthorizeView>
 <MudTextField Variant="Variant.Outlined" T="string"></MudTextField>
 <MudButton Color="Color.Error"  >eliminar</MudButton>
 <div>

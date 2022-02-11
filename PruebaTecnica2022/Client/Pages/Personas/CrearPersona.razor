@@ -2,6 +2,7 @@
 @inject IRepositorio repositorio
 @inject IMostrarMensajes mostrarMensajes
 @inject NavigationManager navigationManager
+@attribute [Authorize(Roles = "admin")]
 
 <MudAppBar Color="Color.Primary" Fixed="false">
     <MudText Align="Align.Center" Typo="Typo.h4">Crear persona</MudText>

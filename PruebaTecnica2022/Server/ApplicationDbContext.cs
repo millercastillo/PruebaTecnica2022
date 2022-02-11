@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using PruebaTecnica2022.Shared.Entidades;
 
 
@@ -9,7 +10,7 @@ namespace PruebaTecnica2022.Server
     /// con la base de datos y configuras las tablas
     /// de dicha base de datos
     /// </summary>
-    public class ApplicationDbContext: DbContext
+    public class ApplicationDbContext: IdentityDbContext
     {
         /// <summary>
         /// Constructor de la clase
